@@ -1,2 +1,2 @@
 # reactjsfundamentals_githubbattle
-My first React.js course
+I'm learning React - my first React.js course
